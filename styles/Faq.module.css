@@ -1,4 +1,4 @@
-.home{
+.faq{
     height: 100vh;
     width: auto;  
     display: flex;
@@ -10,7 +10,7 @@
     background-color: rgb(34, 52, 214);
     padding: 5vh;
     height: 50vh;
-    margin: 3vw;
+    margin: 5vw;
     border-radius: 5vh 5vw;
     display: flex;
     justify-content: center;
